@@ -1,0 +1,3 @@
+recursive-include ckeditor5/static *
+recursive-exclude ckeditor5/static/ckeditor/ckeditor/_samples *
+recursive-include ckeditor5/templates *

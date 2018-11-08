@@ -1,0 +1,4 @@
+django
+django-js-asset
+selenium
+tox
